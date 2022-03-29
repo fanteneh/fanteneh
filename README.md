@@ -1,6 +1,6 @@
 ### Hi, I'm Faiven Anteneh!
 
-A first year chemical engineering student at the University of Waterloo.
+I am a first year chemical engineering student at the University of Waterloo.
 
 I have experience in python and java through courses taken in university and high school. I am currently working with an Arduino to create a temperature sensor. 
 
