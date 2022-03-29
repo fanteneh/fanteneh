@@ -2,7 +2,7 @@
 
 A first year chemical engineering student at the University of Waterloo.
 
-I have basic experience in python and java through courses taken in university and high school. 
+I have experience in python and java through courses taken in university and high school. I am currently working with an Arduino to create a temperature sensor. 
 
 <!--
 **fanteneh/fanteneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
