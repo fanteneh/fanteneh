@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Faiven Anteneh!
+
+A first year chemical engineering student at the University of Waterloo.
+
+I have basic experience in python and java through courses taken in university and high school. 
 
 <!--
 **fanteneh/fanteneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
